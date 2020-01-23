@@ -1,8 +1,10 @@
-# test
+# github-pages-playground
 
-This is just a test
+This is just a playground repo for github pages
 
+Links:
+[subFolder/test1](subFolder/test1.md)
 
-[test link1](about/test2.md)
+[subFolder/test2](subFolder/test2.md)
 
-[test link2](about/test1.md)
+[sameFolder/test3](test3.md)
